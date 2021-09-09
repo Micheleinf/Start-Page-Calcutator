@@ -1,0 +1,166 @@
+{
+    "items": [
+    {
+        "name": "Kegeln",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "all",
+        "open": "nein",
+        "kids": "ja",
+        "holiday": "nein"
+    },    
+    {
+        "name": "Kegeln am Wochenende",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "all",
+        "open": "ja",
+        "kids": "ja",
+        "holiday": "nein"
+    },
+    {
+        "name": "Freibad",
+        "date": "01.08.2022",
+        "weather": "gut",
+        "time": "tag",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "all"
+    },
+    {
+        "name": "Hallenbad",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "all",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Wandern",
+        "date": "01.08.2022",
+        "weather": "gut",
+        "time": "tag",
+        "open": "all",
+        "kids": "all",
+        "holiday": "all"
+    },
+    {
+        "name": "Musikkurs",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "nacht",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Brotbackkurs Tag",
+        "date": "01.08.2022",
+        "weather": "schlecht",
+        "time": "tag",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Brotbackkurs Abend",
+        "date": "01.08.2022",
+        "weather": "schlecht",
+        "time": "nacht",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Schieferbergwerk",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "tag",
+        "open": "all",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Schieferbergwerk Abendführung",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "nacht",
+        "open": "all",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Go-Kurse am Wochenende",
+        "date": "01.08.2022",
+        "weather": "schlecht",
+        "time": "tag",
+        "open": "ja",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Go-Kurse unter der Woche",
+        "date": "01.08.2022",
+        "weather": "schlecht",
+        "time": "nacht",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "nein"
+    },
+    {
+        "name": "Biliard",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "nacht",
+        "open": "nein",
+        "kids": "nein",
+        "holiday": "all"
+    },
+    {
+        "name": "Biliard am Wochenende",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "nacht",
+        "open": "ja",
+        "kids": "nein",
+        "holiday": "all"
+    },
+    {
+        "name": "Rennautofahren",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "tag",
+        "open": "ja",
+        "kids": "nein",
+        "holiday": "ja"
+    },
+    {
+        "name": "Korbflechten",
+        "date": "01.08.2022",
+        "weather": "schlecht",
+        "time": "all",
+        "open": "nein",
+        "kids": "all",
+        "holiday": "ja"
+    },
+    {
+        "name": "Besuch des Wasserfalls",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "tag",
+        "open": "all",
+        "kids": "all",
+        "holiday": "all"
+    },
+    {
+        "name": "Zoobesuche",
+        "date": "01.08.2022",
+        "weather": "all",
+        "time": "all",
+        "open": "all",
+        "kids": "all",
+        "holiday": "all"
+    }
+    ]
+}
